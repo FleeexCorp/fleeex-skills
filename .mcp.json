@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fleeex": {
+      "type": "http",
+      "url": "https://api.fleeex.dev/mcp"
+    }
+  }
+}

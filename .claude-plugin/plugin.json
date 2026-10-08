@@ -1,0 +1,13 @@
+{
+  "name": "fleeex",
+  "version": "0.1.0",
+  "description": "Integrate fleeex into your app: connect the fleeex MCP, create the app and its API keys, wire @fleeex/sdk, register webhooks and test in sandbox.",
+  "author": {
+    "name": "FleeexCorp",
+    "email": "support@fleeex.dev"
+  },
+  "homepage": "https://docs.fleeex.dev",
+  "repository": "https://github.com/FleeexCorp/fleeex-skills",
+  "license": "MIT",
+  "keywords": ["fleeex", "llm", "openai", "wallet", "metering", "mcp", "sdk", "webhooks"]
+}

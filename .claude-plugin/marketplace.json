@@ -1,0 +1,17 @@
+{
+  "name": "fleeex",
+  "owner": {
+    "name": "FleeexCorp",
+    "email": "support@fleeex.dev"
+  },
+  "metadata": {
+    "description": "Official fleeex agent skills: integrate the fleeex AI wallet and LLM proxy into your app."
+  },
+  "plugins": [
+    {
+      "name": "fleeex",
+      "source": "./",
+      "description": "Integrate fleeex into your app: connect the fleeex MCP, create the app and its API keys, wire @fleeex/sdk, register webhooks and test in sandbox."
+    }
+  ]
+}
